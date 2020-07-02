@@ -137,7 +137,6 @@
       "name": "Operator, Misc",
       "scope": [
         "punctuation",
-        "meta.tag",
         "meta.brace", // all other braces []()
         "punctuation.definition.tag",
         "punctuation.separator.inheritance.php",
