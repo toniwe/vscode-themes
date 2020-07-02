@@ -1,7 +1,7 @@
 {
   "name": "toniw-theme",
   "displayName": "Toniw Theme",
-  "description": "A customized theme with ligh and dark variants",
+  "description": "A customized theme with light and dark variants",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.33.0"

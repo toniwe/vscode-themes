@@ -7,6 +7,9 @@
     "activityBar.foreground": "#f0f0f0",
     "activityBarBadge.background": "#007acc",
     "badge.background": "#565A7A",
+    "debugToolBar.background": "#2D2F40", // EDITOR BG
+    "diffEditor.insertedTextBackground": "#81FF5B30",
+    "diffEditor.removedTextBackground": "#FF202030",
     "dropdown.background": "#21232F", // INPUT BG
     "dropdown.border": "#1B1C26", // UI BORDER
     "editor.background": "#2D2F40", // EDITOR BG
@@ -17,11 +20,18 @@
     "editorBracketMatch.border": "#878BAA",
     "editorGroup.border": "#1B1C26", // UI BORDER
     "editorGroupHeader.tabsBackground": "#282938", // SIDEBAR BG
+    "editorGutter.addedBackground": "#3F8929",
+    "editorGutter.deletedBackground": "#A02020",
+    "editorGutter.modifiedBackground": "#2075B6",
     "editorIndentGuide.activeBackground": "#6C6F97",
     "editorIndentGuide.background": "#4C4E6B",
     "editorLineNumber.activeForeground": "#d3d5e6",
     "editorLineNumber.foreground": "#5F6381",
+    "editorMarkerNavigation.background": "#282938", // SIDEBAR BG
+    "editorOverviewRuler.addedForeground": "#2075B6C0", // MODIFIED (DIMMED)
     "editorOverviewRuler.border": "#00000000", // NO BORDER
+    "editorOverviewRuler.deletedForeground": "#2075B6C0", // MODIFIED (DIMMED)
+    "editorOverviewRuler.modifiedForeground": "#2075B6C0", // MODIFIED (DIMMED)
     "editorWidget.background": "#282938", // SIDEBAR BG
     "editorWidget.border": "#1B1C26", // UI BORDER
     "foreground": "#ffffffd0",
@@ -51,16 +61,6 @@
     "tab.inactiveBackground": "#282938", // SIDEBAR BG
     "titleBar.activeBackground": "#323447", // ACTIVITY BG
     "widget.shadow": "#00000080",
-    "debugToolBar.background": "#2D2F40", // EDITOR BG
-    "editorMarkerNavigation.background": "#282938", // SIDEBAR BG
-    "diffEditor.removedTextBackground": "#FF202030",
-    "diffEditor.insertedTextBackground": "#81FF5B30",
-    "editorGutter.addedBackground": "#3F8929",
-    "editorGutter.deletedBackground": "#A02020",
-    "editorGutter.modifiedBackground": "#2075B6",
-    "editorOverviewRuler.modifiedForeground": "#2075B6C0", // MODIFIED (DIMMED)
-    "editorOverviewRuler.addedForeground": "#2075B6C0", // MODIFIED (DIMMED)
-    "editorOverviewRuler.deletedForeground": "#2075B6C0", // MODIFIED (DIMMED)
   },
   "tokenColors": [
     {
