@@ -34,7 +34,7 @@
     "editorOverviewRuler.modifiedForeground": "#2075B6C0", // MODIFIED (DIMMED)
     "editorWidget.background": "#282938", // SIDEBAR BG
     "editorWidget.border": "#1B1C26", // UI BORDER
-    "foreground": "#ffffffd0",
+    "foreground": "#f0f0f0",
     "input.background": "#21232F", // INPUT BG
     "input.border": "#1B1C26", // UI BORDER
     "list.activeSelectionBackground": "#3D3F56",
@@ -50,6 +50,7 @@
     "scrollbarSlider.hoverBackground": "#5F638680",
     "sideBar.background": "#282938", // SIDEBAR BG
     "sideBar.border": "#1B1C26", // UI BORDER
+    "sideBar.foreground": "#e0e0e0",
     "sideBarSectionHeader.background": "#323447", // ACTIVITY BG
     "sideBarTitle.foreground": "#ffffffb0",
     "statusBar.background": "#282938", // SIDEBAR BG

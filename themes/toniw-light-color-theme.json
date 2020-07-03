@@ -15,7 +15,7 @@
     // "editorGutter.addedBackground": "#3F8929",
     // "editorGutter.deletedBackground": "#A02020",
     // "editorGutter.modifiedBackground": "#2075B6",
-    // "editorLineNumber.activeForeground": "#303030",
+    // "editorLineNumber.activeForeground": "#202020",
     // "editorMarkerNavigation.background": "#f4f4f4", // SIDEBAR BG
     // "editorOverviewRuler.addedForeground": "#2075B6C0", // MODIFIED (DIMMED)
     // "editorOverviewRuler.border": "#00000000", // NO BORDER
@@ -37,7 +37,7 @@
     // "titleBar.activeBackground": "#323447", // ACTIVITY BG
     // "widget.shadow": "#00000080",
     // -------- from light+ below (TODO)
-    "editor.foreground": "#303030",
+    "editor.foreground": "#202020",
     "editor.inactiveSelectionBackground": "#E5EBF1",
     "editorIndentGuide.background": "#D3D3D3",
     "editorIndentGuide.activeBackground": "#939393",
@@ -48,7 +48,6 @@
     "list.hoverBackground": "#E8E8E8",
     "input.placeholderForeground": "#767676",
     // -------- customized below (DONE)
-    "foreground": "#303030",
     "activityBar.background": "#e0e0e0", // ACTIVITY BG
     "activityBar.border": "#d0d0d0", // UI BORDER
     "activityBar.foreground": "#202020",
@@ -59,16 +58,17 @@
     "editorGroup.border": "#d0d0d0", // UI BORDER
     "editorLineNumber.foreground": "#999CB0",
     "editorWidget.border": "#d0d0d0", // UI BORDER
+    "foreground": "#202020",
     "input.border": "#d0d0d0", // UI BORDER
     "panel.border": "#d0d0d0", // UI BORDER
     "sideBar.background": "#f4f4f4", // SIDEBAR BG
     "sideBar.border": "#d0d0d0", // UI BORDER
-    "sideBar.foreground": "#505050",
+    "sideBar.foreground": "#404040",
     "sideBarSectionHeader.background": "#e0e0e0", // ACTIVITY BG
     "statusBar.background": "#dddddd",
     "statusBar.border": "#d0d0d0", // UI BORDER
     "statusBar.debuggingBackground": "#dddddd",
-    "statusBar.foreground": "#303030",
+    "statusBar.foreground": "#202020",
     "statusBar.noFolderBackground": "#dddddd",
     "tab.border": "#d0d0d0", // UI BORDER
   },
@@ -103,7 +103,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#6B5400" // LOCAL VARIABLES
+        "foreground": "#806A00" // LOCAL VARIABLES
       }
     },
     {
@@ -129,7 +129,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#BC4BB6" // KEYWORDS
+        "foreground": "#ce4bc5" // KEYWORDS
       }
     },
     {
@@ -139,7 +139,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#303030" // DEFAULT
+        "foreground": "#202020" // DEFAULT
       }
     },
     {
@@ -157,7 +157,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#00668f" // PUNCTUATIONS
+        "foreground": "#00597D" // PUNCTUATIONS
       }
     },
     {
@@ -169,7 +169,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#BC4BB6" // TAG -> KEYWORDS
+        "foreground": "#ce4bc5" // TAG -> KEYWORDS
       }
     },
     {
@@ -183,7 +183,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#303030" // FUNCTIONS
+        "foreground": "#202020" // FUNCTIONS
       }
     },
     {
@@ -203,7 +203,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#6B5400" // MARKDOWN ALT TEXT -> VARIABLES
+        "foreground": "#806A00" // MARKDOWN ALT TEXT -> VARIABLES
       }
     },
     {
@@ -236,7 +236,7 @@
         "variable.parameter",
       ],
       "settings": {
-        "foreground": "#611900" // PARAMETER VARIABLES
+        "foreground": "#7c1f00" // PARAMETER VARIABLES
       }
     },
     {
@@ -267,7 +267,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#2C137F" // CLASSES
+        "foreground": "#301195" // CLASSES
       }
     },
     {
@@ -290,7 +290,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#6B5400" // CSS PROPERTY -> VARIABLES
+        "foreground": "#806A00" // CSS PROPERTY -> VARIABLES
       }
     },
     {
@@ -301,7 +301,7 @@
         "variable.other.object.property"
       ],
       "settings": {
-        "foreground": "#0948C5" // FIELDS 
+        "foreground": "#094dd4" // FIELDS 
       }
     },
     {
@@ -313,7 +313,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#2C137F" // CSS CLASS, ID -> CLASSES
+        "foreground": "#301195" // CSS CLASS, ID -> CLASSES
       }
     },
     {
@@ -349,7 +349,7 @@
         "string.regexp"
       ],
       "settings": {
-        "foreground": "#00668f" // REGEX -> PUNCTUATIONS
+        "foreground": "#00597D" // REGEX -> PUNCTUATIONS
       }
     },
     {
@@ -358,7 +358,7 @@
         "constant.character.escape"
       ],
       "settings": {
-        "foreground": "#00668f" // ESC -> PUNCTUATIONS
+        "foreground": "#00597D" // ESC -> PUNCTUATIONS
       }
     },
     {
@@ -379,7 +379,7 @@
         "meta.object-literal.key",
       ],
       "settings": {
-        "foreground": "#6B5400" // JSON KEY -> VARIABLES
+        "foreground": "#806A00" // JSON KEY -> VARIABLES
       }
     },
     {
@@ -389,7 +389,7 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#303030" // DEFAULT
+        "foreground": "#202020" // DEFAULT
       }
     },
     {
@@ -401,7 +401,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#BC4BB6" // HEADING -> KEYWORDS
+        "foreground": "#ce4bc5" // HEADING -> KEYWORDS
       }
     },
     {
@@ -465,7 +465,7 @@
         "markup.quote punctuation.definition.blockquote.markdown"
       ],
       "settings": {
-        "foreground": "#00668f" // BLOCKQUOTE -> PUNCTUATIONS
+        "foreground": "#00597D" // BLOCKQUOTE -> PUNCTUATIONS
       }
     },
     {
@@ -484,7 +484,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#6B5400" // LINK LABEL -> VARIABLES
+        "foreground": "#806A00" // LINK LABEL -> VARIABLES
       }
     },
     {
@@ -494,7 +494,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#6B5400" // LINK TITLE -> VARIABLES
+        "foreground": "#806A00" // LINK TITLE -> VARIABLES
       }
     },
     {
@@ -503,7 +503,7 @@
         "constant.other.reference.link.markdown"
       ],
       "settings": {
-        "foreground": "#0948C5" // ID ANCHOR -> FIELDS
+        "foreground": "#094dd4" // ID ANCHOR -> FIELDS
       }
     },
     {
@@ -514,7 +514,7 @@
         "text.html.markdown markup.inline.raw.markdown"
       ],
       "settings": {
-        "foreground": "#2C137F" // RAW / CODE -> CLASSES
+        "foreground": "#301195" // RAW / CODE -> CLASSES
       }
     },
     {
@@ -524,7 +524,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#30303080" // SEPARATORS -> DEFAULT (DIMMED)
+        "foreground": "#20202080" // SEPARATORS -> DEFAULT (DIMMED)
       }
     },
     {
@@ -533,7 +533,7 @@
         "markup.table"
       ],
       "settings": {
-        "foreground": "#00668f" // TABLE -> PUNCTUATIONS
+        "foreground": "#00597D" // TABLE -> PUNCTUATIONS
       }
     }
   ]
