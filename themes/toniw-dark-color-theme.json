@@ -411,7 +411,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#5CC7CC" // STYLE -> ENUM
+        "foreground": "#5CC7CC" // STYLE -> ENUMS
       }
     },
     {
@@ -422,7 +422,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#5CC7CC" // STYLE -> ENUM
+        "foreground": "#5CC7CC" // STYLE -> ENUMS
       }
     },
     {
@@ -437,7 +437,7 @@
       ],
       "settings": {
         "fontStyle": "italic bold",
-        "foreground": "#5CC7CC" // STYLE -> ENUM
+        "foreground": "#5CC7CC" // STYLE -> ENUMS
       }
     },
     {

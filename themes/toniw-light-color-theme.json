@@ -5,22 +5,13 @@
   "colors": {
     // "badge.background": "#565A7A",
     // "debugToolBar.background": "#2D2F40", // EDITOR BG
-    // "diffEditor.insertedTextBackground": "#81FF5B30",
-    // "diffEditor.removedTextBackground": "#FF202030",
     // "dropdown.background": "#ffffff", // INPUT BG
     // "editor.selectionBackground": "#4C4E6B",
     // "editorBracketMatch.background": "#f4f4f4", // SIDEBAR BG
     // "editorBracketMatch.border": "#878BAA",
     // "editorGroupHeader.tabsBackground": "#f4f4f4", // SIDEBAR BG
-    // "editorGutter.addedBackground": "#3F8929",
-    // "editorGutter.deletedBackground": "#A02020",
-    // "editorGutter.modifiedBackground": "#2075B6",
     // "editorLineNumber.activeForeground": "#202020",
     // "editorMarkerNavigation.background": "#f4f4f4", // SIDEBAR BG
-    // "editorOverviewRuler.addedForeground": "#2075B6C0", // MODIFIED (DIMMED)
-    // "editorOverviewRuler.border": "#00000000", // NO BORDER
-    // "editorOverviewRuler.deletedForeground": "#2075B6C0", // MODIFIED (DIMMED)
-    // "editorOverviewRuler.modifiedForeground": "#2075B6C0", // MODIFIED (DIMMED)
     // "editorWidget.background": "#f4f4f4", // SIDEBAR BG
     // "input.background": "#ffffff", // INPUT BG
     // "list.activeSelectionBackground": "#3D3F56",
@@ -37,7 +28,6 @@
     // "titleBar.activeBackground": "#323447", // ACTIVITY BG
     // "widget.shadow": "#00000080",
     // -------- from light+ below (TODO)
-    "editor.foreground": "#202020",
     "editor.inactiveSelectionBackground": "#E5EBF1",
     "editorIndentGuide.background": "#D3D3D3",
     "editorIndentGuide.activeBackground": "#939393",
@@ -48,16 +38,26 @@
     "list.hoverBackground": "#E8E8E8",
     "input.placeholderForeground": "#767676",
     // -------- customized below (DONE)
-    "editorUnnecessaryCode.opacity": "#00000090",
     "activityBar.background": "#e0e0e0", // ACTIVITY BG
     "activityBar.border": "#d0d0d0", // UI BORDER
     "activityBar.foreground": "#202020",
+    "diffEditor.insertedTextBackground": "#34ac1030",
+    "diffEditor.removedTextBackground": "#ff4b4b30",
     "dropdown.border": "#d0d0d0", // UI BORDER
     "editor.background": "#ffffff",
+    "editor.foreground": "#202020",
     "editor.lineHighlightBackground": "#f8f8f8",
     "editor.lineHighlightBorder": "#f0f0f0",
     "editorGroup.border": "#d0d0d0", // UI BORDER
+    "editorGutter.addedBackground": "#97d384",
+    "editorGutter.deletedBackground": "#d33e3e",
+    "editorGutter.modifiedBackground": "#6db3e9",
     "editorLineNumber.foreground": "#999CB0",
+    "editorOverviewRuler.addedForeground": "#6db3e9C0", // MODIFIED (DIMMED)
+    "editorOverviewRuler.border": "#00000000", // NO BORDER
+    "editorOverviewRuler.deletedForeground": "#6db3e9C0", // MODIFIED (DIMMED)
+    "editorOverviewRuler.modifiedForeground": "#6db3e9C0", // MODIFIED (DIMMED)
+    "editorUnnecessaryCode.opacity": "#00000090",
     "editorWidget.border": "#d0d0d0", // UI BORDER
     "foreground": "#202020",
     "input.border": "#d0d0d0", // UI BORDER
@@ -130,7 +130,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#d428c9" // KEYWORDS
+        "foreground": "#ca30c0" // KEYWORDS
       }
     },
     {
@@ -170,7 +170,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#d428c9" // TAG -> KEYWORDS
+        "foreground": "#ca30c0" // TAG -> KEYWORDS
       }
     },
     {
@@ -194,7 +194,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#1C7D81" // CSS FUNCTION -> ENUMS
+        "foreground": "#098e92" // CSS FUNCTION -> ENUMS
       }
     },
     {
@@ -215,7 +215,7 @@
         "constant.escape",
       ],
       "settings": {
-        "foreground": "#1C7D81" // ENUMS
+        "foreground": "#098e92" // ENUMS
       }
     },
     {
@@ -402,7 +402,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#d428c9" // HEADING -> KEYWORDS
+        "foreground": "#ca30c0" // HEADING -> KEYWORDS
       }
     },
     {
@@ -421,7 +421,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#1C7D81" // STYLE -> ENUM
+        "foreground": "#098e92" // STYLE -> ENUMS
       }
     },
     {
@@ -432,7 +432,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#1C7D81" // STYLE -> ENUM
+        "foreground": "#098e92" // STYLE -> ENUMS
       }
     },
     {
@@ -447,7 +447,7 @@
       ],
       "settings": {
         "fontStyle": "italic bold",
-        "foreground": "#1C7D81" // STYLE -> ENUM
+        "foreground": "#098e92" // STYLE -> ENUMS
       }
     },
     {
