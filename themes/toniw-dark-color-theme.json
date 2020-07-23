@@ -2,6 +2,7 @@
   "name": "Toniw Dark",
   "type": "dark",
   "colors": {
+    // TODO: make selections/active/marked more visible!
     "activityBar.background": "#323447", // ACTIVITY BG
     "activityBar.border": "#1B1C26", // UI BORDER
     "activityBar.foreground": "#f0f0f0",
