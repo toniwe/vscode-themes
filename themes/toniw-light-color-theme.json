@@ -31,7 +31,6 @@
     "list.hoverBackground": "#E8E8E8",
     "sideBarTitle.foreground": "#6F6F6F",
     // -------- customized below (DONE)
-    "input.background": "#ffffff", // INPUT BG
     "activityBar.background": "#e0e0e0", // ACTIVITY BG
     "activityBar.border": "#d0d0d0", // UI BORDER
     "activityBar.foreground": "#101010",
@@ -59,6 +58,7 @@
     "editorUnnecessaryCode.opacity": "#00000090",
     "editorWidget.border": "#d0d0d0", // UI BORDER
     "foreground": "#101010",
+    "input.background": "#ffffff", // INPUT BG
     "input.border": "#d0d0d0", // UI BORDER
     "panel.border": "#d0d0d0", // UI BORDER
     "sideBar.background": "#f4f4f4", // SIDEBAR BG

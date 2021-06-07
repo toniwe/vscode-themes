@@ -2,7 +2,6 @@
   "name": "Toniw Dark",
   "type": "dark",
   "colors": {
-    // TODO: make selections/active/marked more visible!
     "activityBar.background": "#323447", // ACTIVITY BG
     "activityBar.border": "#1B1C26", // UI BORDER
     "activityBar.foreground": "#f0f0f0",
@@ -16,7 +15,8 @@
     "editor.background": "#2D2F40", // EDITOR BG
     "editor.foreground": "#f0f0f0",
     "editor.lineHighlightBackground": "#373A4D",
-    "editor.selectionBackground": "#4C4E6B",
+    "editor.selectionBackground": "#585a7e",
+    "editor.selectionHighlightBackground": "#585a7e90",
     "editorBracketMatch.background": "#282938", // SIDEBAR BG
     "editorBracketMatch.border": "#878BAA",
     "editorGroup.border": "#1B1C26", // UI BORDER
