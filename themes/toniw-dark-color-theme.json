@@ -2,26 +2,27 @@
   "name": "Toniw Dark",
   "type": "dark",
   "colors": {
+    // TODO: log type colors/bold-style
     "activityBar.background": "#323447", // ACTIVITY BG
     "activityBar.border": "#1B1C26", // UI BORDER
-    "activityBar.foreground": "#f0f0f0",
+    "activityBar.foreground": "#f0f0f0", // FG
     "activityBarBadge.background": "#007acc",
     "badge.background": "#565A7A",
     "debugToolBar.background": "#2D2F40", // EDITOR BG
-    "diffEditor.insertedTextBackground": "#81FF5B30",
+    "diffEditor.insertedTextBackground": "#2b9e1430",
     "diffEditor.removedTextBackground": "#FF202030",
     "dropdown.background": "#21232F", // INPUT BG
     "dropdown.border": "#1B1C26", // UI BORDER
     "editor.background": "#2D2F40", // EDITOR BG
-    "editor.foreground": "#f0f0f0",
-    "editor.lineHighlightBackground": "#373A4D",
+    "editor.foreground": "#f0f0f0", // FG
+    "editor.lineHighlightBackground": "#373A4D", // LINE HIGHLIGHT BG
     "editor.selectionBackground": "#585a7e",
     "editor.selectionHighlightBackground": "#585a7e90",
     "editorBracketMatch.background": "#282938", // SIDEBAR BG
     "editorBracketMatch.border": "#878BAA",
     "editorGroup.border": "#1B1C26", // UI BORDER
     "editorGroupHeader.tabsBackground": "#282938", // SIDEBAR BG
-    "editorGutter.addedBackground": "#3F8929",
+    "editorGutter.addedBackground": "#398929",
     "editorGutter.deletedBackground": "#A02020",
     "editorGutter.modifiedBackground": "#2075B6",
     "editorIndentGuide.activeBackground": "#6C6F97",
@@ -35,7 +36,7 @@
     "editorOverviewRuler.modifiedForeground": "#2075B6C0", // MODIFIED (DIMMED)
     "editorWidget.background": "#282938", // SIDEBAR BG
     "editorWidget.border": "#1B1C26", // UI BORDER
-    "foreground": "#f0f0f0",
+    "foreground": "#f0f0f0", // FG
     "input.background": "#21232F", // INPUT BG
     "input.border": "#1B1C26", // UI BORDER
     "list.activeSelectionBackground": "#3D3F56",
@@ -51,18 +52,20 @@
     "scrollbarSlider.hoverBackground": "#5F638680",
     "sideBar.background": "#282938", // SIDEBAR BG
     "sideBar.border": "#1B1C26", // UI BORDER
-    "sideBar.foreground": "#e0e0e0",
+    "sideBar.foreground": "#e0e0e0", // SIDEBAR FG 
     "sideBarSectionHeader.background": "#323447", // ACTIVITY BG
-    "sideBarTitle.foreground": "#ffffffb0",
+    "sideBarTitle.foreground": "#ffffffb0", // FG DIMMED
     "statusBar.background": "#282938", // SIDEBAR BG
     "statusBar.border": "#1B1C26", // UI BORDER
     "statusBar.debuggingBackground": "#282938", // SIDEBAR BG
-    "statusBar.foreground": "#ffffffb0",
+    "statusBar.foreground": "#ffffffb0", // FG DIMMED
     "statusBar.noFolderBackground": "#282938", // SIDEBAR BG
-    "tab.activeBackground": "#2D2F40", // EDITOR BG
+    "tab.activeBackground": "#323447", // TAB BG
     "tab.inactiveBackground": "#282938", // SIDEBAR BG
+    "tab.activeBorder": "#6b74bb", // TAB BORDER
+    "tab.border": "#00000000",
     "titleBar.activeBackground": "#323447", // ACTIVITY BG
-    "widget.shadow": "#00000080",
+    "titleBar.inactiveBackground": "#323447", // ACTIVITY BG
   },
   "tokenColors": [
     {
@@ -72,7 +75,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#6B8099" // COMMENTS
+        "foreground": "#728aa7" // COMMENTS
       }
     },
     {

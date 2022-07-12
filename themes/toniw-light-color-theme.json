@@ -2,11 +2,11 @@
   "name": "Toniw Light",
   "type": "light",
   "colors": {
+    // TODO: log type colors/bold-style
     // -------- from dark theme below (TODO)
     // "dropdown.background": "#ffffff", // INPUT BG
     // "editorBracketMatch.background": "#f4f4f4", // SIDEBAR BG
     // "editorBracketMatch.border": "#878BAA",
-    // "editorGroupHeader.tabsBackground": "#f4f4f4", // SIDEBAR BG
     // "editorLineNumber.activeForeground": "#101010",
     // "editorMarkerNavigation.background": "#f4f4f4", // SIDEBAR BG
     // "editorWidget.background": "#f4f4f4", // SIDEBAR BG
@@ -19,9 +19,6 @@
     // "scrollbarSlider.activeBackground": "#696E9580",
     // "scrollbarSlider.background": "#54587780",
     // "scrollbarSlider.hoverBackground": "#5F638680",
-    // "tab.inactiveBackground": "#f4f4f4", // SIDEBAR BG
-    // "titleBar.activeBackground": "#323447", // ACTIVITY BG
-    // "widget.shadow": "#00000080",
     // -------- from light+ below (TODO)
     "editor.inactiveSelectionBackground": "#E5EBF1",
     "editor.selectionBackground": "#C1D9EF",
@@ -29,11 +26,10 @@
     "editorSuggestWidget.background": "#F3F3F3",
     "input.placeholderForeground": "#767676",
     "list.hoverBackground": "#E8E8E8",
-    "sideBarTitle.foreground": "#6F6F6F",
     // -------- customized below (DONE)
     "activityBar.background": "#e0e0e0", // ACTIVITY BG
     "activityBar.border": "#d0d0d0", // UI BORDER
-    "activityBar.foreground": "#101010",
+    "activityBar.foreground": "#101010", // FG
     "activityBarBadge.background": "#007ACC",
     "badge.background": "#c8c8c8",
     "debugToolBar.background": "#ffffff", // EDITOR BG
@@ -41,10 +37,11 @@
     "diffEditor.removedTextBackground": "#ff4b4b30",
     "dropdown.border": "#d0d0d0", // UI BORDER
     "editor.background": "#ffffff", // EDITOR BG
-    "editor.foreground": "#101010",
+    "editor.foreground": "#101010", // FG
     "editor.lineHighlightBackground": "#f8f8f8",
     "editor.lineHighlightBorder": "#f0f0f0",
     "editorGroup.border": "#d0d0d0", // UI BORDER
+    "editorGroupHeader.tabsBackground": "#f4f4f4", // SIDEBAR BG
     "editorGutter.addedBackground": "#97d384",
     "editorGutter.deletedBackground": "#d33e3e",
     "editorGutter.modifiedBackground": "#6db3e9",
@@ -57,21 +54,26 @@
     "editorOverviewRuler.modifiedForeground": "#6db3e9C0", // MODIFIED (DIMMED)
     "editorUnnecessaryCode.opacity": "#00000090",
     "editorWidget.border": "#d0d0d0", // UI BORDER
-    "foreground": "#101010",
+    "foreground": "#101010", // FG
     "input.background": "#ffffff", // INPUT BG
     "input.border": "#d0d0d0", // UI BORDER
     "panel.border": "#d0d0d0", // UI BORDER
     "sideBar.background": "#f4f4f4", // SIDEBAR BG
     "sideBar.border": "#d0d0d0", // UI BORDER
-    "sideBar.foreground": "#404040",
+    "sideBar.foreground": "#101010", // FG
     "sideBarSectionHeader.background": "#e0e0e0", // ACTIVITY BG
-    "statusBar.background": "#dddddd",
+    "sideBarTitle.foreground": "#606060", // FG DIMMED
+    "statusBar.background": "#e0e0e0", // ACTIVITY BG (only light theme)
     "statusBar.border": "#d0d0d0", // UI BORDER
-    "statusBar.debuggingBackground": "#dddddd",
-    "statusBar.foreground": "#101010",
-    "statusBar.noFolderBackground": "#dddddd",
+    "statusBar.debuggingBackground": "#e0e0e0", // ACTIVITY BG (only light theme)
+    "statusBar.foreground": "#101010", // FG
+    "statusBar.noFolderBackground": "#e0e0e0", // ACTIVITY BG (only light theme)
     "tab.activeBackground": "#ffffff", // EDITOR BG
+    "tab.activeBorderTop": "#6b74bb", // TAB BORDER
     "tab.border": "#d0d0d0", // UI BORDER
+    "tab.inactiveBackground": "#f4f4f4", // SIDEBAR BG
+    "titleBar.activeBackground": "#e0e0e0", // ACTIVITY BG
+    "titleBar.inactiveBackground": "#e0e0e0", // ACTIVITY BG
   },
   "tokenColors": [
     {
