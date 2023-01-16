@@ -66,6 +66,7 @@
     "tab.border": "#00000000",
     "titleBar.activeBackground": "#323447", // ACTIVITY BG
     "titleBar.inactiveBackground": "#323447", // ACTIVITY BG
+    "editorRuler.foreground": "#4C4E6B"
   },
   "tokenColors": [
     {
