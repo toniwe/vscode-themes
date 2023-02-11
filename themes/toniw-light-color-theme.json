@@ -33,7 +33,9 @@
     "activityBarBadge.background": "#007ACC",
     "badge.background": "#c8c8c8",
     "debugToolBar.background": "#ffffff", // EDITOR BG
+    "diffEditor.insertedLineBackground": "#34ac1030",
     "diffEditor.insertedTextBackground": "#34ac1030",
+    "diffEditor.removedLineBackground": "#ff4b4b30",
     "diffEditor.removedTextBackground": "#ff4b4b30",
     "dropdown.border": "#d0d0d0", // UI BORDER
     "editor.background": "#ffffff", // EDITOR BG
@@ -68,6 +70,7 @@
     "statusBar.debuggingBackground": "#e0e0e0", // ACTIVITY BG (only light theme)
     "statusBar.foreground": "#101010", // FG
     "statusBar.noFolderBackground": "#e0e0e0", // ACTIVITY BG (only light theme)
+    "statusBarItem.remoteBackground": "#e0e0e0", // ACTIVITY BG
     "tab.activeBackground": "#ffffff", // EDITOR BG
     "tab.activeBorderTop": "#6b74bb", // TAB BORDER
     "tab.border": "#d0d0d0", // UI BORDER
@@ -106,7 +109,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#997F00" // LOCAL VARIABLES
+        "foreground": "#795e00" // LOCAL VARIABLES
       }
     },
     {
@@ -206,7 +209,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#997F00" // MARKDOWN ALT TEXT -> VARIABLES
+        "foreground": "#795e00" // MARKDOWN ALT TEXT -> VARIABLES
       }
     },
     {
@@ -293,7 +296,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#997F00" // CSS PROPERTY -> VARIABLES
+        "foreground": "#795e00" // CSS PROPERTY -> VARIABLES
       }
     },
     {
@@ -382,7 +385,7 @@
         "meta.object-literal.key",
       ],
       "settings": {
-        "foreground": "#997F00" // JSON KEY -> VARIABLES
+        "foreground": "#795e00" // JSON KEY -> VARIABLES
       }
     },
     {
@@ -487,7 +490,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#997F00" // LINK LABEL -> VARIABLES
+        "foreground": "#795e00" // LINK LABEL -> VARIABLES
       }
     },
     {
@@ -497,7 +500,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#997F00" // LINK TITLE -> VARIABLES
+        "foreground": "#795e00" // LINK TITLE -> VARIABLES
       }
     },
     {

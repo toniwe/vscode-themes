@@ -9,7 +9,9 @@
     "activityBarBadge.background": "#007acc",
     "badge.background": "#565A7A",
     "debugToolBar.background": "#2D2F40", // EDITOR BG
-    "diffEditor.insertedTextBackground": "#2b9e1430",
+    "diffEditor.insertedLineBackground": "#39aa1730",
+    "diffEditor.insertedTextBackground": "#39aa1730",
+    "diffEditor.removedLineBackground": "#FF202030",
     "diffEditor.removedTextBackground": "#FF202030",
     "dropdown.background": "#21232F", // INPUT BG
     "dropdown.border": "#1B1C26", // UI BORDER
@@ -34,6 +36,7 @@
     "editorOverviewRuler.border": "#00000000", // NO BORDER
     "editorOverviewRuler.deletedForeground": "#2075B6C0", // MODIFIED (DIMMED)
     "editorOverviewRuler.modifiedForeground": "#2075B6C0", // MODIFIED (DIMMED)
+    "editorRuler.foreground": "#4C4E6B",
     "editorWidget.background": "#282938", // SIDEBAR BG
     "editorWidget.border": "#1B1C26", // UI BORDER
     "foreground": "#f0f0f0", // FG
@@ -60,13 +63,13 @@
     "statusBar.debuggingBackground": "#282938", // SIDEBAR BG
     "statusBar.foreground": "#ffffffb0", // FG DIMMED
     "statusBar.noFolderBackground": "#282938", // SIDEBAR BG
+    "statusBarItem.remoteBackground": "#323447", // ACTIVITY BG
     "tab.activeBackground": "#323447", // TAB BG
-    "tab.inactiveBackground": "#282938", // SIDEBAR BG
     "tab.activeBorder": "#6b74bb", // TAB BORDER
     "tab.border": "#00000000",
+    "tab.inactiveBackground": "#282938", // SIDEBAR BG
     "titleBar.activeBackground": "#323447", // ACTIVITY BG
     "titleBar.inactiveBackground": "#323447", // ACTIVITY BG
-    "editorRuler.foreground": "#4C4E6B"
   },
   "tokenColors": [
     {
