@@ -109,7 +109,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#795e00" // LOCAL VARIABLES
+        "foreground": "#705800" // LOCAL VARIABLES
       }
     },
     {
@@ -135,7 +135,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#C435BA" // KEYWORDS
+        "foreground": "#BD22B2" // KEYWORDS
       }
     },
     {
@@ -175,7 +175,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#C435BA" // TAG -> KEYWORDS
+        "foreground": "#BD22B2" // TAG -> KEYWORDS
       }
     },
     {
@@ -199,7 +199,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#06888D" // CSS FUNCTION -> ENUMS
+        "foreground": "#007377" // CSS FUNCTION -> ENUMS
       }
     },
     {
@@ -209,7 +209,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#795e00" // MARKDOWN ALT TEXT -> VARIABLES
+        "foreground": "#705800" // MARKDOWN ALT TEXT -> VARIABLES
       }
     },
     {
@@ -220,7 +220,7 @@
         "constant.escape",
       ],
       "settings": {
-        "foreground": "#06888D" // ENUMS
+        "foreground": "#007377" // ENUMS
       }
     },
     {
@@ -242,7 +242,7 @@
         "variable.parameter",
       ],
       "settings": {
-        "foreground": "#7c1f00" // PARAMETER VARIABLES
+        "foreground": "#661808" // PARAMETER VARIABLES
       }
     },
     {
@@ -255,7 +255,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#1D7F00" // STRINGS
+        "foreground": "#1C7800" // STRINGS
       }
     },
     {
@@ -273,7 +273,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#3410a8" // CLASSES
+        "foreground": "#2C1185" // CLASSES
       }
     },
     {
@@ -296,7 +296,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#795e00" // CSS PROPERTY -> VARIABLES
+        "foreground": "#705800" // CSS PROPERTY -> VARIABLES
       }
     },
     {
@@ -307,7 +307,7 @@
         "variable.other.object.property"
       ],
       "settings": {
-        "foreground": "#0047D4" // FIELDS 
+        "foreground": "#094BE6" // FIELDS 
       }
     },
     {
@@ -319,7 +319,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#3410a8" // CSS CLASS, ID -> CLASSES
+        "foreground": "#2C1185" // CSS CLASS, ID -> CLASSES
       }
     },
     {
@@ -385,7 +385,7 @@
         "meta.object-literal.key",
       ],
       "settings": {
-        "foreground": "#795e00" // JSON KEY -> VARIABLES
+        "foreground": "#705800" // JSON KEY -> VARIABLES
       }
     },
     {
@@ -407,7 +407,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#C435BA" // HEADING -> KEYWORDS
+        "foreground": "#BD22B2" // HEADING -> KEYWORDS
       }
     },
     {
@@ -426,7 +426,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#06888D" // STYLE -> ENUMS
+        "foreground": "#007377" // STYLE -> ENUMS
       }
     },
     {
@@ -437,7 +437,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#06888D" // STYLE -> ENUMS
+        "foreground": "#007377" // STYLE -> ENUMS
       }
     },
     {
@@ -452,7 +452,7 @@
       ],
       "settings": {
         "fontStyle": "italic bold",
-        "foreground": "#06888D" // STYLE -> ENUMS
+        "foreground": "#007377" // STYLE -> ENUMS
       }
     },
     {
@@ -462,7 +462,7 @@
       ],
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#1D7F00" // LINK URL -> STRINGS
+        "foreground": "#1C7800" // LINK URL -> STRINGS
       }
     },
     {
@@ -490,7 +490,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#795e00" // LINK LABEL -> VARIABLES
+        "foreground": "#705800" // LINK LABEL -> VARIABLES
       }
     },
     {
@@ -500,7 +500,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#795e00" // LINK TITLE -> VARIABLES
+        "foreground": "#705800" // LINK TITLE -> VARIABLES
       }
     },
     {
@@ -509,7 +509,7 @@
         "constant.other.reference.link.markdown"
       ],
       "settings": {
-        "foreground": "#0047D4" // ID ANCHOR -> FIELDS
+        "foreground": "#094BE6" // ID ANCHOR -> FIELDS
       }
     },
     {
@@ -520,7 +520,7 @@
         "text.html.markdown markup.inline.raw.markdown"
       ],
       "settings": {
-        "foreground": "#3410a8" // RAW / CODE -> CLASSES
+        "foreground": "#2C1185" // RAW / CODE -> CLASSES
       }
     },
     {
