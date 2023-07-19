@@ -71,6 +71,7 @@
     "statusBar.foreground": "#101010", // FG
     "statusBar.noFolderBackground": "#e0e0e0", // ACTIVITY BG (only light theme)
     "statusBarItem.remoteBackground": "#e0e0e0", // ACTIVITY BG
+    "statusBarItem.remoteForeground": "#101010", // FG
     "tab.activeBackground": "#ffffff", // EDITOR BG
     "tab.activeBorderTop": "#6b74bb", // TAB BORDER
     "tab.border": "#d0d0d0", // UI BORDER
