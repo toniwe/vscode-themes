@@ -4,62 +4,62 @@
   "colors": {
     // TODO: log type colors/bold-style
     "activityBar.background": "#323447", // ACTIVITY BG
-    "activityBar.border": "#1B1C26", // UI BORDER
+    "activityBar.border": "#1b1c26", // UI BORDER
     "activityBar.foreground": "#f0f0f0", // FG
     "activityBarBadge.background": "#007acc",
-    "badge.background": "#565A7A",
-    "debugToolBar.background": "#2D2F40", // EDITOR BG
+    "badge.background": "#565a7a",
+    "debugToolBar.background": "#2d2f40", // EDITOR BG
     "diffEditor.insertedLineBackground": "#39aa1730",
     "diffEditor.insertedTextBackground": "#39aa1730",
-    "diffEditor.removedLineBackground": "#FF202030",
-    "diffEditor.removedTextBackground": "#FF202030",
-    "dropdown.background": "#21232F", // INPUT BG
-    "dropdown.border": "#1B1C26", // UI BORDER
-    "editor.background": "#2D2F40", // EDITOR BG
+    "diffEditor.removedLineBackground": "#ff202030",
+    "diffEditor.removedTextBackground": "#ff202030",
+    "dropdown.background": "#21232f", // INPUT BG
+    "dropdown.border": "#1b1c26", // UI BORDER
+    "editor.background": "#2d2f40", // EDITOR BG
     "editor.foreground": "#f0f0f0", // FG
-    "editor.lineHighlightBackground": "#373A4D", // LINE HIGHLIGHT BG
+    "editor.lineHighlightBackground": "#373a4d", // LINE HIGHLIGHT BG
     "editor.selectionBackground": "#585a7e",
     "editor.selectionHighlightBackground": "#585a7e90",
     "editorBracketMatch.background": "#282938", // SIDEBAR BG
-    "editorBracketMatch.border": "#878BAA",
-    "editorGroup.border": "#1B1C26", // UI BORDER
+    "editorBracketMatch.border": "#878baa",
+    "editorGroup.border": "#1b1c26", // UI BORDER
     "editorGroupHeader.tabsBackground": "#282938", // SIDEBAR BG
-    "editorGutter.addedBackground": "#398929",
-    "editorGutter.deletedBackground": "#A02020",
-    "editorGutter.modifiedBackground": "#2075B6",
-    "editorIndentGuide.activeBackground": "#6C6F97",
-    "editorIndentGuide.background": "#4C4E6B",
+    "editorGutter.addedBackground": "#3d8f2d",
+    "editorGutter.deletedBackground": "#cd4a4a",
+    "editorGutter.modifiedBackground": "#50a5e7",
+    "editorIndentGuide.activeBackground1": "#6c6f97",
+    "editorIndentGuide.background1": "#4c4e6b",
     "editorLineNumber.activeForeground": "#d3d5e6",
-    "editorLineNumber.foreground": "#5F6381",
+    "editorLineNumber.foreground": "#5f6381",
     "editorMarkerNavigation.background": "#282938", // SIDEBAR BG
-    "editorOverviewRuler.addedForeground": "#2075B6C0", // MODIFIED (DIMMED)
+    "editorOverviewRuler.addedForeground": "#3d8f2db0", // ADDED (DIMMED)
     "editorOverviewRuler.border": "#00000000", // NO BORDER
-    "editorOverviewRuler.deletedForeground": "#2075B6C0", // MODIFIED (DIMMED)
-    "editorOverviewRuler.modifiedForeground": "#2075B6C0", // MODIFIED (DIMMED)
-    "editorRuler.foreground": "#4C4E6B",
+    "editorOverviewRuler.deletedForeground": "#cd4a4ab0", // DELETED (DIMMED)
+    "editorOverviewRuler.modifiedForeground": "#50a5e7b0", // MODIFIED (DIMMED)
+    "editorRuler.foreground": "#4c4e6b",
     "editorWidget.background": "#282938", // SIDEBAR BG
-    "editorWidget.border": "#1B1C26", // UI BORDER
+    "editorWidget.border": "#1b1c26", // UI BORDER
     "foreground": "#f0f0f0", // FG
-    "input.background": "#21232F", // INPUT BG
-    "input.border": "#1B1C26", // UI BORDER
-    "list.activeSelectionBackground": "#3D3F56",
+    "input.background": "#21232f", // INPUT BG
+    "input.border": "#1b1c26", // UI BORDER
+    "list.activeSelectionBackground": "#3d3f56",
     "list.focusBackground": "#54587780",
-    "list.hoverBackground": "#3F425980",
-    "list.inactiveSelectionBackground": "#3D3F56",
-    "panel.border": "#1B1C26", // UI BORDER
-    "panelTitle.activeBorder": "#565A7A",
-    "peekViewTitle.background": "#21232F", // INPUT BG
+    "list.hoverBackground": "#3f425980",
+    "list.inactiveSelectionBackground": "#3d3f56",
+    "panel.border": "#1b1c26", // UI BORDER
+    "panelTitle.activeBorder": "#565a7a",
+    "peekViewTitle.background": "#21232f", // INPUT BG
     "scrollbar.shadow": "#00000050",
-    "scrollbarSlider.activeBackground": "#696E9580",
+    "scrollbarSlider.activeBackground": "#696e9580",
     "scrollbarSlider.background": "#54587780",
-    "scrollbarSlider.hoverBackground": "#5F638680",
+    "scrollbarSlider.hoverBackground": "#5f638680",
     "sideBar.background": "#282938", // SIDEBAR BG
-    "sideBar.border": "#1B1C26", // UI BORDER
+    "sideBar.border": "#1b1c26", // UI BORDER
     "sideBar.foreground": "#e0e0e0", // SIDEBAR FG 
     "sideBarSectionHeader.background": "#323447", // ACTIVITY BG
     "sideBarTitle.foreground": "#ffffffb0", // FG DIMMED
     "statusBar.background": "#282938", // SIDEBAR BG
-    "statusBar.border": "#1B1C26", // UI BORDER
+    "statusBar.border": "#1b1c26", // UI BORDER
     "statusBar.debuggingBackground": "#282938", // SIDEBAR BG
     "statusBar.foreground": "#ffffffb0", // FG DIMMED
     "statusBar.noFolderBackground": "#282938", // SIDEBAR BG
@@ -91,7 +91,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#A0BBDE" // ANNOTATIONS
+        "foreground": "#a0bbde" // ANNOTATIONS
       }
     },
     {
@@ -102,7 +102,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#E5D7A5" // LOCAL VARIABLES
+        "foreground": "#e5d7a5" // LOCAL VARIABLES
       }
     },
     {
@@ -112,7 +112,7 @@
         "invalid.illegal"
       ],
       "settings": {
-        "foreground": "#FF5370" // ERRORS
+        "foreground": "#ff5353" // ERRORS
       }
     },
     {
@@ -156,7 +156,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#BBECFF" // PUNCTUATIONS
+        "foreground": "#bbecff" // PUNCTUATIONS
       }
     },
     {
@@ -164,7 +164,6 @@
       "scope": [
         "entity.name.tag",
         "meta.tag.sgml",
-        "markup.deleted.git_gutter"
       ],
       "settings": {
         "fontStyle": "bold",
@@ -192,7 +191,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#5CC7CC" // CSS FUNCTION -> ENUMS
+        "foreground": "#5cc7cc" // CSS FUNCTION -> ENUMS
       }
     },
     {
@@ -202,7 +201,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#E5D7A5" // MARKDOWN ALT TEXT -> VARIABLES
+        "foreground": "#e5d7a5" // MARKDOWN ALT TEXT -> VARIABLES
       }
     },
     {
@@ -213,7 +212,7 @@
         "constant.escape",
       ],
       "settings": {
-        "foreground": "#5CC7CC" // ENUMS
+        "foreground": "#5cc7cc" // ENUMS
       }
     },
     {
@@ -226,7 +225,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#FF9259" // NUMBERS
+        "foreground": "#ff9259" // NUMBERS
       }
     },
     {
@@ -235,20 +234,19 @@
         "variable.parameter",
       ],
       "settings": {
-        "foreground": "#E6A993" // PARAMETER VARIABLES
+        "foreground": "#e6a993" // PARAMETER VARIABLES
       }
     },
     {
-      "name": "String, Symbols, Inherited Class, Markup Heading",
+      "name": "String, Symbols, Inherited Class",
       "scope": [
         "string",
         "constant.other.symbol",
         "constant.other.key",
-        "markup.inserted.git_gutter",
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#97D982" // STRINGS
+        "foreground": "#97d982" // STRINGS
       }
     },
     {
@@ -261,12 +259,11 @@
         "support.orther.namespace.use.php",
         "meta.use.php",
         "support.other.namespace.php",
-        "markup.changed.git_gutter",
         "support.type.sys-types"
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#D8CCFF" // CLASSES
+        "foreground": "#d8ccff" // CLASSES
       }
     },
     {
@@ -289,7 +286,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#E5D7A5" // CSS PROPERTY -> VARIABLES
+        "foreground": "#e5d7a5" // CSS PROPERTY -> VARIABLES
       }
     },
     {
@@ -300,7 +297,7 @@
         "variable.other.object.property"
       ],
       "settings": {
-        "foreground": "#8CB2FF" // FIELDS 
+        "foreground": "#8cb2ff" // FIELDS 
       }
     },
     {
@@ -312,34 +309,34 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#D8CCFF" // CSS CLASS, ID -> CLASSES
+        "foreground": "#d8ccff" // CSS CLASS, ID -> CLASSES
       }
     },
     {
-      "name": "Inserted",
+      "name": "Inserted (Markup, Patch)",
       "scope": [
         "markup.inserted"
       ],
       "settings": {
-        "foreground": "#97D982" // ???
+        "foreground": "#97d982" // INSERTED -> STRINGS
       }
     },
     {
-      "name": "Deleted",
+      "name": "Deleted (Markup, Patch)",
       "scope": [
         "markup.deleted"
       ],
       "settings": {
-        "foreground": "#FF5370" // ???
+        "foreground": "#ff5353" // DELETED -> ERRORS
       }
     },
     {
-      "name": "Changed",
+      "name": "Changed (Markup, Patch)",
       "scope": [
         "markup.changed"
       ],
       "settings": {
-        "foreground": "#C792EA" // ???
+        "foreground": "#2075b6" // CHANGED
       }
     },
     {
@@ -348,7 +345,7 @@
         "string.regexp"
       ],
       "settings": {
-        "foreground": "#89DDFF" // REGEX -> PUNCTUATION
+        "foreground": "#89ddff" // REGEX -> PUNCTUATION
       }
     },
     {
@@ -357,7 +354,7 @@
         "constant.character.escape"
       ],
       "settings": {
-        "foreground": "#89DDFF" // ESC -> PUNCTUATION
+        "foreground": "#89ddff" // ESC -> PUNCTUATION
       }
     },
     {
@@ -378,7 +375,7 @@
         "meta.object-literal.key",
       ],
       "settings": {
-        "foreground": "#E5D7A5" // JSON KEY -> VARIABLES
+        "foreground": "#e5d7a5" // JSON KEY -> VARIABLES
       }
     },
     {
@@ -419,7 +416,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#5CC7CC" // STYLE -> ENUMS
+        "foreground": "#5cc7cc" // STYLE -> ENUMS
       }
     },
     {
@@ -430,7 +427,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#5CC7CC" // STYLE -> ENUMS
+        "foreground": "#5cc7cc" // STYLE -> ENUMS
       }
     },
     {
@@ -445,7 +442,7 @@
       ],
       "settings": {
         "fontStyle": "italic bold",
-        "foreground": "#5CC7CC" // STYLE -> ENUMS
+        "foreground": "#5cc7cc" // STYLE -> ENUMS
       }
     },
     {
@@ -455,7 +452,7 @@
       ],
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#97D982" // LINK URL -> STRINGS
+        "foreground": "#97d982" // LINK URL -> STRINGS
       }
     },
     {
@@ -464,7 +461,7 @@
         "markup.quote punctuation.definition.blockquote.markdown"
       ],
       "settings": {
-        "foreground": "#BBECFF" // BLOCKQUOTE -> PUNCTUATIONS
+        "foreground": "#bbecff" // BLOCKQUOTE -> PUNCTUATIONS
       }
     },
     {
@@ -483,7 +480,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#E5D7A5" // LINK LABEL -> VARIABLES
+        "foreground": "#e5d7a5" // LINK LABEL -> VARIABLES
       }
     },
     {
@@ -493,7 +490,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#E5D7A5" // LINK TITLE -> VARIABLES
+        "foreground": "#e5d7a5" // LINK TITLE -> VARIABLES
       }
     },
     {
@@ -502,7 +499,7 @@
         "constant.other.reference.link.markdown"
       ],
       "settings": {
-        "foreground": "#8CB2FF" // ID ANCHOR -> FIELDS
+        "foreground": "#8cb2ff" // ID ANCHOR -> FIELDS
       }
     },
     {
@@ -513,7 +510,7 @@
         "text.html.markdown markup.inline.raw.markdown"
       ],
       "settings": {
-        "foreground": "#D8CCFF" // RAW / CODE -> CLASSES
+        "foreground": "#d8ccff" // RAW / CODE -> CLASSES
       }
     },
     {
@@ -532,7 +529,7 @@
         "markup.table"
       ],
       "settings": {
-        "foreground": "#BBECFF" // TABLE -> PUNCTUATIONS
+        "foreground": "#bbecff" // TABLE -> PUNCTUATIONS
       }
     }
   ]
