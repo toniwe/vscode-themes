@@ -120,7 +120,7 @@
         "invalid.illegal"
       ],
       "settings": {
-        "foreground": "#dbfc3c" // ERRORS
+        "foreground": "#db1c3c" // ERRORS
       }
     },
     {
